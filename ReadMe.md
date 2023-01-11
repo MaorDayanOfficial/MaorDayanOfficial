@@ -17,7 +17,7 @@ a Computer Expert, White Hat Hacker, Cyber Security Researcher
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mord1234)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+[![](https://gtce.itsvg.in/api?username=mord1234)]
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
