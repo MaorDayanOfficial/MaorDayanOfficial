@@ -16,8 +16,8 @@ a Computer Expert, White Hat Hacker, Cyber Security Researcher
 ![](https://github-profile-trophy.vercel.app/?username=MaorDayanOfficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mord1234)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-[![](https://gtce.itsvg.in/api?username=mord1234)]
+[![](https://gtce.itsvg.in/api?username=mord1234)](https://twitter.com/mord1234)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
